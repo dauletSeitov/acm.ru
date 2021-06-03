@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="commons-math3-3.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/ddd/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/ddd/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/ddd/commons-codec-1.15.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/ddd/poi-scratchpad-5.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/ddd/poi-5.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/ddd/jcl-over-slf4j-1.7.30.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/ddd/slf4j-api-1.7.30.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/ddd/commons-collections4-4.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/ddd/poi-ooxml-full-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
